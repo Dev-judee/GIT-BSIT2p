@@ -1,0 +1,19 @@
+Welcome to message 2 
+
+How are you!
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>First Website</title>
+</head>
+<body>
+    
+    <h1>Message 2</h1>
+
+    <p>Lorem ipsum dolor sit amet <strong>consectetur adipisicing elit. </strong>>Dolores provident error non commodi quidem magni ad veritatis obcaecati praesentium exercitationem.</p>
+
+</body>
+</html>
